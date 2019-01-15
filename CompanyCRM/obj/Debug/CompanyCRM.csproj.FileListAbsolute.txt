@@ -1,0 +1,49 @@
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\CompanyCRM.exe.config
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\CompanyCRM.exe
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\CompanyCRM.pdb
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\EntityFramework.dll
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\Npgsql.dll
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\EntityFramework.xml
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\Npgsql.xml
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.Form1.resources
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.Properties.Resources.resources
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.exe
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.pdb
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\itextsharp.dll
+C:\Users\Sergio\Desktop\DAM\C#\CompanyCRM\CompanyCRM\CompanyCRM\bin\Debug\itextsharp.xml
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\CompanyCRM.exe.config
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\CompanyCRM.exe
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\CompanyCRM.pdb
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\EntityFramework.dll
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\itextsharp.dll
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\Npgsql.dll
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\EntityFramework.xml
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\itextsharp.xml
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\Npgsql.xml
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.csprojAssemblyReference.cache
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.Form1.resources
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.Properties.Resources.resources
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.csproj.GenerateResource.cache
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.csproj.CopyComplete
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.exe
+C:\Users\Sergio Martinez Mule\Desktop\Projects\CompanyCRM\CompanyCRM\obj\Debug\CompanyCRM.pdb
